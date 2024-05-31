@@ -10,4 +10,4 @@ def aguarda_carregamento_medio():
     sleep(7)
 
 def aguarda_carregamento_lento():
-    sleep(20)
+    sleep(15)
